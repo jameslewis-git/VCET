@@ -1,6 +1,6 @@
-# VCET Semester Assignments Repository
+# VCET Assignments Repository
 
-Welcome to my GitHub repository for semester assignments at Vidyavardhini's College of Engineering and Technology (VCET). This repository will contain all the assignments, projects, and other academic work that I complete as part of my coursework.
+Welcome to my GitHub repository for assignments at Vidyavardhini's College of Engineering and Technology (VCET). This repository will contain all the assignments, projects, and other academic work that I complete as part of my coursework.
 
 ## About Me
 
