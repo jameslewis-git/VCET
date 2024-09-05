@@ -7,6 +7,4 @@ Welcome to my GitHub repository for semester assignments at Vidyavardhini's Coll
 - **Name**: James Lewis
 - **College**: Vidyavardhini's College of Engineering and Technology (VCET)
 - **Course**: Bachelor of Engineering in Artificial Intelligence and Data Science
-- **Semester**: III
-- **Roll No.**: 28
 - **Department**: AI(DS)
